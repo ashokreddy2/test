@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_policy_rule">
+    <sys_data_policy_rule action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>short_description</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_data_policy_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-06 11:06:39</sys_created_on>
+        <sys_data_policy display_value="Sets the Short description field to mandatory">5e5a6be32f4ac0101bfb90bcf699b68b</sys_data_policy>
+        <sys_id>9e5a6be32f4ac0101bfb90bcf699b68d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>short_description</sys_name>
+        <sys_package display_value="Innovate" source="x_11407_innovate">4819af6f2f0ac0101bfb90bcf699b6c5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Innovate">4819af6f2f0ac0101bfb90bcf699b6c5</sys_scope>
+        <sys_update_name>sys_data_policy_rule_9e5a6be32f4ac0101bfb90bcf699b68d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-06 11:06:39</sys_updated_on>
+        <table>x_11407_innovate_innovate</table>
+    </sys_data_policy_rule>
+</record_update>
